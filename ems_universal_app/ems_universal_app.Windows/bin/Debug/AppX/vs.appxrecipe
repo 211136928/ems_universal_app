@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOBILE-LAB15</Machine>
+    <WindowsUser>wisani</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>697b26b7-76d5-465f-a317-4f46a22c0280</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5E6FD9C7A74C5A91C13A6C5DFA6BC532B01B1F9E48CB4523AA954D2D57ED04EE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>697b26b7-76d5-465f-a317-4f46a22c0280_1.0.0.0_neutral__0g1fmh1s3bdzt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>697b26b7-76d5-465f-a317-4f46a22c0280_0g1fmh1s3bdzt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>697b26b7-76d5-465f-a317-4f46a22c0280</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=wici2</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-03T09:37:41.817</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\ems_universal_app.Windows.exe">
+      <PackagePath>ems_universal_app.Windows.exe</PackagePath>
+      <Modified>2015-08-03T12:21:28.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\Assets\ems pic.jpg">
+      <PackagePath>Assets\ems pic.jpg</PackagePath>
+      <Modified>2015-08-03T09:30:25.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\Assets\ems pic1.jpg">
+      <PackagePath>Assets\ems pic1.jpg</PackagePath>
+      <Modified>2015-08-03T09:32:22.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Shared\Assets\EMS.jpg">
+      <PackagePath>Assets\EMS.jpg</PackagePath>
+      <Modified>2015-06-22T12:31:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Shared\Assets\logo.png">
+      <PackagePath>Assets\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-22T12:31:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-31T11:20:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\commentPage.xbf">
+      <PackagePath>commentPage.xbf</PackagePath>
+      <Modified>2015-08-03T12:21:28.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\HomePage.xbf">
+      <PackagePath>HomePage.xbf</PackagePath>
+      <Modified>2015-08-03T12:21:28.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-08-02T08:38:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\RegisterPage.xbf">
+      <PackagePath>RegisterPage.xbf</PackagePath>
+      <Modified>2015-08-02T08:38:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\UpdateDetailsPage.xbf">
+      <PackagePath>UpdateDetailsPage.xbf</PackagePath>
+      <Modified>2015-08-02T08:38:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\VerifyPage.xbf">
+      <PackagePath>VerifyPage.xbf</PackagePath>
+      <Modified>2015-08-02T12:11:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\ems_universal_app.Windows.xr.xml">
+      <PackagePath>ems_universal_app.Windows.xr.xml</PackagePath>
+      <Modified>2015-08-03T12:21:28.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-03T09:37:41.420</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

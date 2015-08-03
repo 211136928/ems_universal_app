@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="ems_universal_app.RegisterPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ems_universal_app"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:Name="txtPassword">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBox x:Name="txtSurname" HorizontalAlignment="Left" Margin="575,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="373" Height="47" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="318,226,0,0" TextWrapping="Wrap" Text="Enter surname" VerticalAlignment="Top" Height="47" Width="232" FontSize="36"/>
+        <TextBox x:Name="txtCellNumber" HorizontalAlignment="Left" Margin="575,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="373" Height="55" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="268,278,0,0" TextWrapping="Wrap" Text="Enter CellNumber" VerticalAlignment="Top" Height="47" Width="302" FontSize="36"/>
+        <TextBox x:Name="txtname" HorizontalAlignment="Left" Margin="575,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="373" Height="47" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="354,169,0,0" TextWrapping="Wrap" Text="Enter Name" VerticalAlignment="Top" Height="47" Width="210" FontSize="36"/>
+        <TextBox x:Name="txtID" HorizontalAlignment="Left" Margin="575,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="373" Height="47" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="209,127,0,0" TextWrapping="Wrap" Text="                     Enter ID" VerticalAlignment="Top" Height="47" Width="341" FontSize="36" SelectionChanged="TextBlock_SelectionChanged"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="575,338,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="373" Height="55" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="373,341,0,0" TextWrapping="Wrap" Text="Enter Email" VerticalAlignment="Top" Height="47" Width="191" FontSize="36"/>
+        <Button x:Name="btnRegister" Content="Register" HorizontalAlignment="Left" Margin="112,688,0,0" VerticalAlignment="Top" Width="416" Height="59" Click="btnRegister_Click" FontSize="24">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btVerify" Content="Back" HorizontalAlignment="Left" Margin="685,688,0,0" VerticalAlignment="Top" Width="416" Height="59" Click="btnVerify_Click" FontSize="24">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="lblDisplay" HorizontalAlignment="Left" Margin="256,615,0,0" TextWrapping="Wrap" Text="display error msg" VerticalAlignment="Top" Height="47" Width="842" FontSize="36"/>
+        <PasswordBox x:Name="txtPassword1" HorizontalAlignment="Left" Margin="575,459,0,0" VerticalAlignment="Top" Width="373" Height="48"/>
+        <PasswordBox x:Name="txtVpasswrd" HorizontalAlignment="Left" Margin="575,512,0,0" VerticalAlignment="Top" Width="373" Height="48" Background="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="250,513,0,0" TextWrapping="Wrap" Text="Re-enter password" VerticalAlignment="Top" Height="47" Width="320" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="309,454,0,0" TextWrapping="Wrap" Text="Enter password Password" VerticalAlignment="Top" Height="47" Width="261" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="209,48,0,0" TextWrapping="Wrap" Text="Please fill in the form to register with Emergency Medical Service" VerticalAlignment="Top" Height="57" Width="1119" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="575,398,0,0" TextWrapping="Wrap" Text="Province" VerticalAlignment="Top" Height="47" Width="135" FontSize="36"/>
+        <ListBox x:Name="lstProvince" HorizontalAlignment="Left" Height="47" Margin="742,398,0,0" VerticalAlignment="Top" Width="206" FontSize="20"/>
+        <CheckBox x:Name="chkTerm" Content="By tiking on this box you agree our terms and condition of our service" HorizontalAlignment="Left" Margin="572,581,0,0" VerticalAlignment="Top" Width="494" Background="{x:Null}"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="4,5,0,0" VerticalAlignment="Top" Width="100" Source="Assets/EMS.jpg"/>
+        <TextBlock HorizontalAlignment="Left" Margin="27,100,0,0" TextWrapping="Wrap" Text="EMS" VerticalAlignment="Top" Height="37" Width="75" FontSize="24" SelectionChanged="TextBlock_SelectionChanged" RenderTransformOrigin="0.656,1.196"/>
+
+    </Grid>
+</Page>

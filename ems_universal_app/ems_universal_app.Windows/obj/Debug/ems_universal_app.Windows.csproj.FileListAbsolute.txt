@@ -1,0 +1,114 @@
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\App.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\MainPage.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\ems_universal_app.Windows.xr.xml
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\ems_universal_app.Windows.exe
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\ems_universal_app.Windows.pdb
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\resources.pri
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\AppxManifest.xml
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\ems_universal_app.Windows.build.appxrecipe
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\App.g.i.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\App.g.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\MainPage.g.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\App.xaml
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\MainPage.xaml
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\App.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\MainPage.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\ems_universal_app.Windows.exe
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\ems_universal_app.Windows.pdb
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\priconfig.xml
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\layout.resfiles
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\resources.resfiles
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\pri.resfiles
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\qualifiers.txt
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\HomePage.g.i.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\HomePage.g.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\VerifyPage.g.i.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\VerifyPage.g.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\HomePage.xaml
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\VerifyPage.xaml
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\HomePage.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\VerifyPage.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\HomePage.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\VerifyPage.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\RegisterPage.g.i.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\RegisterPage.g.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\RegisterPage.xaml
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\RegisterPage.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\RegisterPage.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\UpdateDetailsPage.g.i.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\UpdateDetailsPage.g.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\UpdateDetailsPage.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\UpdateDetailsPage.xaml
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\UpdateDetailsPage.xbf
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\commentPage.g.i.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\commentPage.g.cs
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\commentPage.xaml
+C:\Users\wici2\Documents\Visual Studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\commentPage.xbf
+C:\Users\wici2\documents\visual studio 2013\Projects\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\commentPage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\App.g.i.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\App.g.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\commentPage.g.i.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\commentPage.g.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\HomePage.g.i.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\HomePage.g.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\MainPage.g.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\RegisterPage.g.i.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\RegisterPage.g.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\UpdateDetailsPage.g.i.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\UpdateDetailsPage.g.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\VerifyPage.g.i.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\VerifyPage.g.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\App.xaml
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\MainPage.xaml
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\RegisterPage.xaml
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\UpdateDetailsPage.xaml
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\VerifyPage.xaml
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\App.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\MainPage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\RegisterPage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\UpdateDetailsPage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\VerifyPage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\ems_universal_app.Windows.exe
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\ems_universal_app.Windows.pdb
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\commentPage.xaml
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\HomePage.xaml
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\commentPage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\HomePage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\App.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\commentPage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\HomePage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\MainPage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\RegisterPage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\UpdateDetailsPage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\VerifyPage.xbf
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\ems_universal_app.Windows.xr.xml
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\ems_universal_app.Windows.exe
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\ems_universal_app.Windows.pdb
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\resources.pri
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\AppxManifest.xml
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\bin\Debug\ems_universal_app.Windows.build.appxrecipe
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\priconfig.xml
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\layout.resfiles
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\resources.resfiles
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\pri.resfiles
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\qualifiers.txt
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\obj\Debug\ProjectArchitectures.txt

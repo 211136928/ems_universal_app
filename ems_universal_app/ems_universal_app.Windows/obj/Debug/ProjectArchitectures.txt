@@ -1,0 +1,1 @@
+C:\Users\wisani\Desktop\ems_universal_app\ems_universal_app\ems_universal_app.Windows\ems_universal_app.Windows.csproj;neutral
